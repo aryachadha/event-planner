@@ -1,7 +1,7 @@
-#🌟 Elegant Events – Responsive Event Planner Website
+# 🌟 Elegant Events – Responsive Event Planner Website
 A fully designed and responsive event planning website featuring modern UI components, gradient layouts, service listings, pricing tables, media sections, and a detailed contact form. Built using HTML5 and CSS3, this project showcases a visually appealing and user-friendly interface suitable for event management businesses.
 
-##🚀 Features
+## 🚀 Features
 ✅ Fully Responsive Layout
 The entire website adapts beautifully to all screen sizes including mobile, tablet, and desktop.
 ✅ Smooth Navigation
@@ -48,11 +48,11 @@ Quick links
 Contact information
 Business tagline
 
-##📁 Project Structure
+## 📁 Project Structure
 ├── index.html  # Main website structure
 ├── style.css   # Complete styling with gradients, animations, grid & flexbox
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 Frontend
 HTML5
 CSS3
@@ -64,7 +64,7 @@ External Media
 Unsplash images (free to use)
 Sample audio/video from SoundHelix & W3Schools
 
-##📦 How to Use
+## 📦 How to Use
 Clone the repository
 git clone https://github.com/aryachadha/elegant-events.git
 Open the project folder:
@@ -72,12 +72,12 @@ cd elegant-events
 Open index.html in your browser.
 Customize services, images, contact action URL, and branding as needed.
 
-###🖼️ Preview 
+### 🖼️ Preview 
 You can host this project using:
 GitHub Pages
 Netlify
 Vercel
 
-###👨‍💻 Author
+### 👨‍💻 Author
 Designed & developed by Arya Chadha
 Feel free to modify, improve, or enhance the layout!
